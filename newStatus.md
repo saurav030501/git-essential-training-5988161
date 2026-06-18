@@ -1,2 +1,2 @@
 Here is an extra line.
-One more line. This is a better change
+One more line. lets get the merge conflict.
